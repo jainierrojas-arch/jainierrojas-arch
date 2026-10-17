@@ -15,14 +15,6 @@ Fundador de **[Aprende IA de Cero](https://aprendeiadecero.com)**: academia de a
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Proyecto destacado
-
-**[Calculadora de precios](https://github.com/jainierrojas-arch/calculadora-de-precios)** — gratis. ¿Cuánto le cobro a mi cliente? Respondes 6 preguntas y te dice cuánto cobrar; después te arma la cotización, el contrato y la factura.
-
-[![Calculadora de precios](https://raw.githubusercontent.com/jainierrojas-arch/calculadora-de-precios/main/como-funciona.jpg)](https://calculadora.aprendeiadecero.com)
-
-👉 **Úsala:** https://calculadora.aprendeiadecero.com
-
 ### Dónde encontrarme
 
 [![Página](https://img.shields.io/badge/aprendeiadecero.com-E8391E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aprendeiadecero.com)
