@@ -7,7 +7,7 @@
 Fundador de [Aprende IA de Cero](https://aprendeiadecero.com) · Claude Code · React · Firebase · Automatizaciones con IA
 
 [![Página](https://img.shields.io/badge/aprendeiadecero.com-E8391E?style=flat&logo=googlechrome&logoColor=white)](https://aprendeiadecero.com)
-[![Skool](https://img.shields.io/badge/Academia_en_Skool-5865F2?style=flat&logo=skool&logoColor=white)](https://www.skool.com/aprendeiadecero/about)
+[![Skool](https://img.shields.io/badge/Academia_en_Skool-5865F2?style=flat)](https://www.skool.com/aprendeiadecero/about)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aprendeiadecero)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aprendeiadecero)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@aprendeiadecero)
@@ -75,6 +75,6 @@ Una academia para aprender a construir con IA **sin saber programar**: desde qu�
 
 [aprendeiadecero.com](https://aprendeiadecero.com) · [Instagram](https://instagram.com/aprendeiadecero)
 
-🇺🇸 English · 🇪🇸 Español · 📍 Charlotte, NC
+🇪🇸 Español · 📍 Charlotte, NC
 
 </div>
