@@ -18,11 +18,11 @@ Construyo páginas, apps y automatizaciones con IA para negocios. Y en **[Aprend
 
 ## Gratis para ti
 
-**[Calculadora de precios](https://calculadora.aprendeiadecero.com)** · *¿Cuánto le cobro a mi cliente?*
-Respondes 6 preguntas y te dice cuánto cobrar por una página, una app o una automatización, y cuánto de mensualidad. Te arma la cotización, el contrato y la factura. Sin cuenta y de código abierto (MIT).
+**[Calculadora de precios](https://calculadora.aprendeiadecero.com)** · *¿Cuánto le cobro a mi cliente?*\
+Respondes 6 preguntas y te dice cuánto cobrar por una página, una app o una automatización, y cuánto de mensualidad. Te arma la cotización, el contrato y la factura. Sin cuenta y de código abierto (MIT).\
 [Usarla](https://calculadora.aprendeiadecero.com) · [Ver el video](https://calculadora.aprendeiadecero.com/como-funciona.mp4) · [Código](https://github.com/jainierrojas-arch/calculadora-de-precios)
 
-**[El baúl de recursos](https://aprendeiadecero.com/recursos-gratis.html)** · *Repos de código abierto que puedes vender*
+**[El baúl de recursos](https://aprendeiadecero.com/recursos-gratis.html)** · *Repos de código abierto que puedes vender*\
 CRMs, agentes de IA, automatizaciones, WhatsApp y más. Cada uno con qué problema resuelve, a quién se lo vendes, cuánto puedes cobrar y los prompts para instalarlo.
 
 ---
@@ -49,9 +49,9 @@ La academia para aprender a construir con IA sin saber programar: desde cómo pe
 
 ## Con qué trabajo
 
-**IA** &nbsp; `Claude` · `Claude Code` · `ChatGPT` · `Gemini` · `ElevenLabs` · `Ollama`
-**Apps y páginas** &nbsp; `React` · `Vite` · `JavaScript` · `HTML/CSS` · `Python`
-**Datos y publicación** &nbsp; `Firebase` · `Netlify` · `Cloudflare` · `GitHub`
+**IA** &nbsp; `Claude` · `Claude Code` · `ChatGPT` · `Gemini` · `ElevenLabs` · `Ollama`\
+**Apps y páginas** &nbsp; `React` · `Vite` · `JavaScript` · `HTML/CSS` · `Python`\
+**Datos y publicación** &nbsp; `Firebase` · `Netlify` · `Cloudflare` · `GitHub`\
 **Cobros** &nbsp; `Stripe` · `Mercado Pago`
 
 ---
@@ -60,7 +60,7 @@ La academia para aprender a construir con IA sin saber programar: desde cómo pe
 
 [![Racha en GitHub](https://streak-stats.demolab.com?user=jainierrojas-arch&background=141312&border=141312&stroke=3A3531&ring=E8391E&fire=E8391E&currStreakNum=E8E5E0&sideNums=E8E5E0&currStreakLabel=E8391E&sideLabels=9C958D&dates=9C958D)](https://github.com/jainierrojas-arch)
 
-**¿Necesitas una página, una app o una automatización? ¿Quieres aprender a hacerla tú?**
+**¿Necesitas una página, una app o una automatización? ¿Quieres aprender a hacerla tú?**\
 [aprendeiadecero.com](https://aprendeiadecero.com) · Charlotte, NC
 
 </div>
